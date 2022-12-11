@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shortletsapartments/static/css/main.4b6973d4.css",
-    "main.js": "/shortletsapartments/static/js/main.0e52c9bd.js",
+    "main.js": "/shortletsapartments/static/js/main.3c68f2ef.js",
     "static/js/787.dd0789b2.chunk.js": "/shortletsapartments/static/js/787.dd0789b2.chunk.js",
     "static/media/whychooseus_img.png": "/shortletsapartments/static/media/whychooseus_img.7eea6e608b4b6da56d4e.png",
     "static/media/hero_bg.png": "/shortletsapartments/static/media/hero_bg.4e52b9b3837775769614.png",
@@ -20,11 +20,11 @@
     "static/media/logo_transparent_background 3.png": "/shortletsapartments/static/media/logo_transparent_background 3.288a8244703ed70a5b71.png",
     "index.html": "/shortletsapartments/index.html",
     "main.4b6973d4.css.map": "/shortletsapartments/static/css/main.4b6973d4.css.map",
-    "main.0e52c9bd.js.map": "/shortletsapartments/static/js/main.0e52c9bd.js.map",
+    "main.3c68f2ef.js.map": "/shortletsapartments/static/js/main.3c68f2ef.js.map",
     "787.dd0789b2.chunk.js.map": "/shortletsapartments/static/js/787.dd0789b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b6973d4.css",
-    "static/js/main.0e52c9bd.js"
+    "static/js/main.3c68f2ef.js"
   ]
 }
